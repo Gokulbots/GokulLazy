@@ -64,9 +64,9 @@ Thanks for thinking about us.\nIt seems that you really love <a href=https://t.m
 
     NO_VOID_FORMAT_FOUND = "ERROR... <code>{}</code>"
 
-    UPLOAD_START = "<b>initiating Lazy Upload ⚡</b>"
+    UPLOAD_START = "<b>initiating 𝗚𝗚 Upload ⚡</b>"
 
-    LAZY_UPLOAD_START = """<b>●❤♡ Recieving Lazy File ♡❤●</b>\n\n⏯**File Name:** `{}`"""
+    LAZY_UPLOAD_START = """<b>●❤♡ Recieving 𝗚𝗚 File ♡❤●</b>\n\n⏯**File Name:** `{}`"""
 
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "▼ Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n▲ Uᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs\n\n★.•☆•.★𑁔𑁔★ 𝖽𝖾𝗍✫𝗂𝗅𝗌 ★𑁔𑁔★.•☆•.★\n\n🔗<b>URL:</b> {}\n\n✩📂<b>F Name:</b> `{}`\n\n✩📝<b>C Name:</b> `{}`\n\n🧬**File Size:** `{}`\n\n🧡Thank you🧡"
 
@@ -107,7 +107,7 @@ Here is the help for my COMMANDS."""
 
 """
     ABOUT_TXT = """✯ 𝕚𝕥𝕤❜𝕤 me: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/LazyDeveloper>🦋 𝕃𝕒𝕫𝕪𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🦋</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/DMWITHGOKUL>⚡𝗚𝗚 𝗢𝗪𝗡𝗘𝗥 ⚡</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -116,14 +116,12 @@ Here is the help for my COMMANDS."""
 """
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 🎉Lᴀᴢʏ Pʀɪɴᴄᴇss ɪs ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-
-- 🎁Sᴏᴜʀᴄᴇ - https://github.com/LazyDeveloperr/LazyPrincess 
+- 𝐓𝐇𝐈𝐒 𝐈𝐒 𝐀 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐒𝐎𝐔𝐑𝐂𝐄 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐀𝐍𝐃 𝐎𝐖𝐍𝐄𝐃 𝐁𝐘 𝐌𝐘 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑. 𝐈𝐅 𝐘𝐎𝐔 𝐖𝐀𝐍𝐓 𝐂𝐎𝐍𝐓𝐀𝐂𝐓:
  
-- ✨Pʟᴇᴀsᴇ ɢɪᴠᴇ ᴀ sᴛᴀʀ ᴛᴏ ᴛʜɪs ʀᴇᴘᴏ ᴀғᴛᴇʀ ғᴏʀᴋ. Sᴀʟᴜᴛᴇ ᴛᴏ sɪʀ <a href=https://t.me/LazyDeveloperr>LᴀᴢʏDᴇᴠᴇʟᴏᴘᴇʀ</a> ғᴏʀ ᴀᴅᴅɪɴɢ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ɪɴ ᴍᴇ.
+- ✨<a href=https://t.me/LazyDeveloperr>𝐆𝐆 𝐁𝐎𝐓𝐒</a> 
 
 <b>DEV:</b>
-- 🦋 <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 🦋"""
+- ❤️ <a href=https://t.me/OWNER_CC_BOT>𝐌𝐀𝐍𝐀𝐆𝐄𝐑</a> ❤️"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Fɪʟᴛᴇʀ ɪs ᴛʜᴇ ғᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜsᴇʀs ᴄᴀɴ sᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇs ғᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ LᴀᴢʏPʀɪɴᴇss ᴡɪʟʟ ʀᴇsᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴛʜᴀᴛ ᴋᴇʏᴡᴏʀᴅ ʜɪᴛs ᴛʜᴇ ᴍᴇssᴀɢᴇ
@@ -147,7 +145,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/LazyDeveloper)</code>
+<code>[Button Text](buttonurl:https://t.me/CINEMACCBOTUPDATES)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -176,7 +174,7 @@ Here is the help for my COMMANDS."""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Lazy Princess
+these are the extra features of 𝐆𝐆 𝐁𝐎𝐓𝐒
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
@@ -231,7 +229,7 @@ Name - {}
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
     PROGRESS_BAR = """\n
-╭━━━━❰ PROGRESS BAR ❱━➣
+╭━━━━❰ 𝐆𝐆 PROGRESS BAR ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
