@@ -60,7 +60,7 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url=f'https://t.me/{MOVIE_GROUP_USERNAME}')
             ],[
             InlineKeyboardButton('🙆🏻 Hᴇʟᴘ ', callback_data='help'),
-            InlineKeyboardButton('🎁 Hᴇʟᴘ++', callback_data='leech_url_help'),
+            InlineKeyboardButton('🙆🏻 Hᴇʟᴘ ', url='https://t.me/MOVIECHANNEL_LINKCC')
             ],[
             InlineKeyboardButton('⚙ Sᴇᴛᴛɪɴɢs', callback_data='openSettings'),
             InlineKeyboardButton('♥️ Aʙᴏᴜᴛ', callback_data='about')
@@ -122,7 +122,7 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url=f'https://t.me/{MOVIE_GROUP_USERNAME}')
             ],[
             InlineKeyboardButton('🙆🏻 Hᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('🎁 Hᴇʟᴘ++ ', callback_data='leech_url_help'),
+            InlineKeyboardButton('🙆🏻 Hᴇʟᴘ ', url='https://t.me/MOVIECHANNEL_LINKCC')
         ],[
             InlineKeyboardButton('⚙ Sᴇᴛᴛɪɴɢs', callback_data='openSettings'),
             InlineKeyboardButton('♥️ Aʙᴏᴜᴛ', callback_data='about')
